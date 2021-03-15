@@ -23,6 +23,17 @@
     font-weight: 800;
     font-variant-ligatures: normal;
     font-size: xxx-large;
+    letter-spacing: 1px;s
+  }
+
+  h2{
+    color: white;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-variant-ligatures: normal;
+    font-size: xx-large;
     letter-spacing: 1px;
   }
   h3 {
@@ -30,7 +41,7 @@
     margin: 0 auto;
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-variant-ligatures: normal;
     font-size: xx-large;
     letter-spacing: 1px;
@@ -42,7 +53,7 @@
     font-style: normal;
     font-weight: 200;
     font-variant-ligatures: normal;
-    font-size: large;
+    font-size: x-large;
     letter-spacing: 1px;
   }
   h5{
@@ -50,9 +61,8 @@
     margin: 0 auto;
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: normal;
-    font-weight: 200;
-    font-variant-ligatures: normal;
-    font-size: medium;
+    font-weight: 100;
+    font-size: large;
     letter-spacing: 1px;
   }
 
