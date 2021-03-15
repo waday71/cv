@@ -1,7 +1,7 @@
 
   body {
     background-color: #1e5f74;
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: italic;
@@ -15,7 +15,16 @@
     color: white;
   }
 
-
+  h1 {
+    color: white;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-variant-ligatures: normal;
+    font-size: 32;
+    letter-spacing: 1px;
+  }
   h3 {
     color: white;
     margin: 0 auto;
@@ -43,7 +52,7 @@
 
 
 p {
-width: 70%;
+
 margin: 0 auto;
 font-family: "Helvetica Neue", "Arial", sans-serif;
 font-style: italic;
