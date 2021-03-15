@@ -1,0 +1,63 @@
+
+  body {
+    background-color: #1e5f74;
+    width: 70%;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+  a {
+    color: white;
+  }
+
+
+  h3 {
+    color: white;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-variant-ligatures: normal;
+    font-size: 32;
+    letter-spacing: 1px;
+  }
+
+  hr {
+    background-color: #1e5f74;
+    border-width: 10px;
+    border-color: white;
+    border-style: dotted none none;
+    width: 20%
+
+  }
+
+
+  li {
+    color: white;
+  }
+
+
+p {
+width: 70%;
+margin: 0 auto;
+font-family: "Helvetica Neue", "Arial", sans-serif;
+font-style: italic;
+font-weight: 100;
+font-variant-ligatures: normal;
+font-size: 1rem;
+letter-spacing: 1px;
+color: white;
+}
+
+table {
+  color: white
+}
+
+ul {
+  color: white;
+}
