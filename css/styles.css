@@ -22,7 +22,7 @@
     font-style: normal;
     font-weight: 800;
     font-variant-ligatures: normal;
-    font-size: 32;
+    font-size: xxx-large;
     letter-spacing: 1px;
   }
   h3 {
@@ -32,7 +32,27 @@
     font-style: normal;
     font-weight: 300;
     font-variant-ligatures: normal;
-    font-size: 32;
+    font-size: xx-large;
+    letter-spacing: 1px;
+  }
+  h4 {
+    color: white;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-variant-ligatures: normal;
+    font-size: large;
+    letter-spacing: 1px;
+  }
+  h5{
+    color: white;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-variant-ligatures: normal;
+    font-size: medium;
     letter-spacing: 1px;
   }
 
