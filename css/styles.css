@@ -63,8 +63,8 @@ body {
     margin: 0 auto;
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: normal;
-    font-weight: 800;
-    font-size: 80px;
+    font-weight: 600;
+    font-size: 40px;
     letter-spacing: 1px;
   }
 
@@ -74,7 +74,7 @@ body {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 300;
+    font-size: 45px;
     letter-spacing: 1px;
   }
   h3 {
