@@ -57,13 +57,19 @@ body {
 }
 
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+.container {
+  height: 30%; /* Full-height: remove this if you want "auto" height */
+  width: 500px; /* Set the width of the sidebar */
+ 
+  
+  top: 500; /* Stay at the top */
+  left: 300;
+  /* background-color: #e7e7de; /* Green*/
 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+  padding-top: 0px
+
+}
+
   h1 {
     color: #818181;
     margin: 0 auto;
